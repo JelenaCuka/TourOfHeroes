@@ -1,5 +1,8 @@
 # TourOfHeroes
 
+## Description
+This project covers major topics when working with Angular framework. Using directives, creating components, using one-way data binding for read only data, using two-way data binding for editable fields and updating data, binding component methods to user events, editing data in details view, formating data with pipes,  creating and using services, using routing. This is introductory Angular project and it is based on [Tour of Heroes tutorial](https://angular.io/tutorial).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
 ## Development server
